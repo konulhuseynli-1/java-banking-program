@@ -34,6 +34,7 @@ public class Main {
                 default -> System.out.println("INVALID CHOICE");
             }
         }
+          //Exit message
         System.out.println("***************************");
         System.out.println("Thank you! Have a nice day!");
         System.out.println("***************************");
@@ -79,5 +80,6 @@ public class Main {
         }
     }
 
-        //Exit message
+      
     }
+
